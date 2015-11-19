@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language: PHITS input file
 " Maintainer: Jean-Michel Bereder
-" Latest Revision: 28 Oct 2015
+" Latest Revision:  19 Nov 2015
 
 " Check whether the syntax file already exists
 if exists("b:current_syntax")
